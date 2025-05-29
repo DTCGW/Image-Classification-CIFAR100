@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # Step 1: Load Dataset
     data_dir = "dataset/"
     input_size = (3, 224, 224)
-    train_loader, test_loader = get_dataloader(data_dir)
+    train_loader, test_loader = get_dataloader(data_dir, num_workers=ResNetConfig.num_workers)
 
     # Step 2: Main Process
     args = parse_arguments()
@@ -60,7 +60,7 @@ if __name__ == "__main__":
         model = ResNet50_NET().to(device)
         summary(model, input_size=input_size)
 
-        train_model_resnet(model=model, train_loader=train_loader, config=ResNetConfig)
+        train_model_resnet(model=model, train_loader=train_loader,test_loader=test_loader, model_config=ResNetConfig)
         evaluate_resnet(model=model, test_loader=test_loader, config=ResNetConfig)
 
     elif args.option == 3:
@@ -79,7 +79,7 @@ if __name__ == "__main__":
         model = DenseNet121_NET().to(DenseNetConfig.device)
         summary(model, input_size=input_size)
 
-        train_model_densenet(model=model, train_loader=train_loader, config=DenseNetConfig)
+        train_model_densenet(model=model, train_loader=train_loader, test_loader=test_loader, config=DenseNetConfig)
         evaluate_densenet(model=model, test_loader=test_loader, config=DenseNetConfig)
 
 
@@ -99,7 +99,7 @@ if __name__ == "__main__":
         model = ConvNeXtTiny_NET().to(ConvNeXtConfig.device)
         summary(model, input_size=input_size)
 
-        train_model_convnext(model=model, train_loader=train_loader, config=ConvNeXtConfig)
+        train_model_convnext(model=model, train_loader=train_loader, test_loader=test_loader, config=ConvNeXtConfig)
         evaluate_convnext(model=model, test_loader=test_loader, config=ConvNeXtConfig)
 
     elif args.option == 7:
@@ -119,10 +119,10 @@ if __name__ == "__main__":
     
     elif args.option == 8:
 
-        model = build_model().to(SwinConfig.device)
-        summary(model, input_size=input_size)
-        
-        train_model_swinTransformer(model=model, train_loader=train_loader, config=SwinConfig)
+        model = SwinTinyWrapper(SwinConfig).to(SwinConfig.device)
+        # summary(model, input_size=input_size)
+        print(model)
+        train_model_swinTransformer(model=model, train_loader=train_loader, test_loader=test_loader, config=SwinConfig)
         evaluate_swinTransformer(model=model, test_loader=test_loader, config=SwinConfig)
 
     elif args.option == 9:

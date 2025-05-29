@@ -7,7 +7,10 @@ class ConvNeXtBlock(nn.Module):
     def __init__(self, dim):
         super().__init__()
         self.dwconv = nn.Conv2d(dim, dim, kernel_size=7, padding=3, groups=dim)
-        self.norm = nn.LayerNorm([dim, 1, 1])
+        # self.norm = nn.LayerNorm([dim, 1, 1])
+        # self.norm = nn.GroupNorm(1, dim)
+        self.norm = nn.LayerNorm(dim)
+
         self.pwconv1 = nn.Conv2d(dim, 4 * dim, 1)
         self.act = nn.GELU()
         self.pwconv2 = nn.Conv2d(4 * dim, dim, 1)
@@ -15,7 +18,9 @@ class ConvNeXtBlock(nn.Module):
     def forward(self, x):
         residual = x
         x = self.dwconv(x)
+        x = x.permute(0, 2, 3, 1)  # [B, C, H, W] -> [B, H, W, C]
         x = self.norm(x)
+        x = x.permute(0, 3, 1, 2)  # [B, H, W, C] -> [B, C, H, W]
         x = self.pwconv1(x)
         x = self.act(x)
         x = self.pwconv2(x)
@@ -65,6 +70,7 @@ class ConvNeXtTiny_NET(nn.Module):
         return self.head(x)
 
 
+
 def train_model(model, train_loader, test_loader, config):
     model.to(config.device)
     optimizer = config.optimizer_fn(model)
@@ -79,15 +85,21 @@ def train_model(model, train_loader, test_loader, config):
             output = model(x)
             loss = config.criterion(output, y)
             loss.backward()
+
+            # 🔽 Thêm dòng này để clip gradient
+            if config.grad_clip is not None:
+                torch.nn.utils.clip_grad_norm_(model.parameters(), config.grad_clip)
+
             optimizer.step()
 
             total_loss += loss.item()
             correct += (output.argmax(1) == y).sum().item()
             total += y.size(0)
+
         acc = 100 * correct / total
         print(f"[ConvNeXtTiny] Epoch {epoch+1}: Loss={total_loss:.4f}, Accuracy={acc:.2f}%")
 
-        # Evaluate after each epoch
+        # Evaluation sau mỗi epoch
         model.eval()
         correct_eval, total_eval, loss_eval = 0, 0, 0
         with torch.no_grad():

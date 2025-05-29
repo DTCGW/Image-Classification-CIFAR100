@@ -1,15 +1,20 @@
 import torch
-from transformers import SwinForImageClassification
+import torch.nn as nn
+from transformers import SwinModel
 from config import SwinConfig
 
-def build_model():
-    return SwinForImageClassification.from_pretrained(
-        SwinConfig.model_name,
-        num_labels=100,
-        ignore_mismatched_sizes=True,
-    )
+class SwinTinyWrapper(nn.Module):
+    def __init__(self, config):
+        super(SwinTinyWrapper, self).__init__()
+        self.backbone = SwinModel.from_pretrained(config.model_name)
+        self.classifier = nn.Linear(self.backbone.config.hidden_size, 100)
 
-def train_model(model, train_loader, test_loader, config):
+    def forward(self, x):
+        features = self.backbone(pixel_values=x).pooler_output  # (B, hidden_dim)
+        out = self.classifier(features)
+        return out
+
+def train_model_swinTransformer(model, train_loader, test_loader, config):
     model.to(config.device)
     optimizer = config.optimizer_fn(model)
     best_acc = 0.0
@@ -21,16 +26,15 @@ def train_model(model, train_loader, test_loader, config):
         total = 0
         for images, labels in train_loader:
             images, labels = images.to(config.device), labels.to(config.device)
-            outputs = model(pixel_values=images)
-            logits = outputs.logits
-            loss = config.criterion(logits, labels)
+            outputs = model(images)
+            loss = config.criterion(outputs, labels)
 
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
 
             total_loss += loss.item()
-            _, predicted = torch.max(logits.data, 1)
+            _, predicted = torch.max(outputs.data, 1)
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
@@ -39,13 +43,13 @@ def train_model(model, train_loader, test_loader, config):
         print(f"[SwinTransformer] Epoch {epoch+1}: Train Loss={avg_loss:.4f}, Train Accuracy={acc:.2f}%")
 
         # Evaluation after each epoch
-        val_acc, val_loss = evaluate(model, test_loader, config)
+        val_acc, val_loss = evaluate_swinTransformer(model, test_loader, config)
         if val_acc > best_acc:
             best_acc = val_acc
             torch.save(model.state_dict(), f"{config.out_name}_best.pt")
             print(f"[SwinTransformer] Best model saved with accuracy {best_acc:.2f}%")
 
-def evaluate(model, test_loader, config):
+def evaluate_swinTransformer(model, test_loader, config):
     model.to(config.device)
     model.eval()
     correct = 0
@@ -54,11 +58,10 @@ def evaluate(model, test_loader, config):
     with torch.no_grad():
         for images, labels in test_loader:
             images, labels = images.to(config.device), labels.to(config.device)
-            outputs = model(pixel_values=images)
-            logits = outputs.logits
-            loss = config.criterion(logits, labels)
+            outputs = model(images)
+            loss = config.criterion(outputs, labels)
             total_loss += loss.item()
-            _, predicted = torch.max(logits.data, 1)
+            _, predicted = torch.max(outputs.data, 1)
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
