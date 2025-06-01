@@ -14,7 +14,7 @@ class SwinTinyWrapper(nn.Module):
         out = self.classifier(features)
         return out
 
-def train_model_swinTransformer(model, train_loader, test_loader, config):
+def train_model(model, train_loader, test_loader, config):
     model.to(config.device)
     optimizer = config.optimizer_fn(model)
     best_acc = 0.0
@@ -43,13 +43,13 @@ def train_model_swinTransformer(model, train_loader, test_loader, config):
         print(f"[SwinTransformer] Epoch {epoch+1}: Train Loss={avg_loss:.4f}, Train Accuracy={acc:.2f}%")
 
         # Evaluation after each epoch
-        val_acc, val_loss = evaluate_swinTransformer(model, test_loader, config)
+        val_acc, val_loss = evaluate(model, test_loader, config)
         if val_acc > best_acc:
             best_acc = val_acc
             torch.save(model.state_dict(), f"{config.out_name}_best.pt")
             print(f"[SwinTransformer] Best model saved with accuracy {best_acc:.2f}%")
 
-def evaluate_swinTransformer(model, test_loader, config):
+def evaluate(model, test_loader, config):
     model.to(config.device)
     model.eval()
     correct = 0

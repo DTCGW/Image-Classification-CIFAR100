@@ -94,7 +94,7 @@ def train_model(model, train_loader, test_loader, model_config):
         train_acc = 100 * correct / total
         print(f"Epoch [{epoch+1}/{model_config.num_epochs}], Loss: {avg_loss:.4f}, Train Acc: {train_acc:.2f}%")
 
-        val_acc = evaluate(model, test_loader, model_config.device, print_log=False)
+        val_acc = evaluate(model, test_loader, model_config.device, print_log=True)
         if val_acc > best_acc:
             best_acc = val_acc
             torch.save(model.state_dict(), f"{model_config.out_name}_best.pt")

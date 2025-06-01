@@ -1,0 +1,78 @@
+Epoch [1/100], Loss: 4.6060, Train Acc: 0.94%
+New best model saved to vgg16_model_best.pt.
+Epoch [2/100], Loss: 4.6026, Train Acc: 0.92%
+Epoch [3/100], Loss: 4.0740, Train Acc: 6.68%
+New best model saved to vgg16_model_best.pt.
+Epoch [4/100], Loss: 3.4862, Train Acc: 16.07%
+New best model saved to vgg16_model_best.pt.
+Epoch [5/100], Loss: 3.0748, Train Acc: 23.80%
+New best model saved to vgg16_model_best.pt.
+Epoch [6/100], Loss: 2.7267, Train Acc: 30.85%
+New best model saved to vgg16_model_best.pt.
+Epoch [7/100], Loss: 2.4425, Train Acc: 36.64%
+New best model saved to vgg16_model_best.pt.
+Epoch [8/100], Loss: 2.1851, Train Acc: 42.53%
+New best model saved to vgg16_model_best.pt.
+Epoch [9/100], Loss: 1.9317, Train Acc: 48.04%
+New best model saved to vgg16_model_best.pt.
+Epoch [10/100], Loss: 1.6785, Train Acc: 54.18%
+New best model saved to vgg16_model_best.pt.
+Epoch [11/100], Loss: 1.4273, Train Acc: 60.61%
+New best model saved to vgg16_model_best.pt.
+Epoch [12/100], Loss: 1.1978, Train Acc: 66.43%
+New best model saved to vgg16_model_best.pt.
+Epoch [13/100], Loss: 0.9871, Train Acc: 72.47%
+New best model saved to vgg16_model_best.pt.
+Epoch [14/100], Loss: 0.8285, Train Acc: 76.72%
+New best model saved to vgg16_model_best.pt.
+Epoch [15/100], Loss: 0.7067, Train Acc: 80.34%
+New best model saved to vgg16_model_best.pt.
+Epoch [16/100], Loss: 0.5853, Train Acc: 83.40%
+New best model saved to vgg16_model_best.pt.
+Epoch [17/100], Loss: 0.5172, Train Acc: 85.27%
+New best model saved to vgg16_model_best.pt.
+Epoch [18/100], Loss: 0.4428, Train Acc: 87.37%
+New best model saved to vgg16_model_best.pt.
+Epoch [19/100], Loss: 0.3961, Train Acc: 88.83%
+New best model saved to vgg16_model_best.pt.
+Epoch [20/100], Loss: 0.3582, Train Acc: 89.94%
+New best model saved to vgg16_model_best.pt.
+Epoch [21/100], Loss: 0.3201, Train Acc: 90.74%
+New best model saved to vgg16_model_best.pt.
+Epoch [22/100], Loss: 0.2955, Train Acc: 91.44%
+New best model saved to vgg16_model_best.pt.
+Epoch [23/100], Loss: 0.2648, Train Acc: 92.28%
+New best model saved to vgg16_model_best.pt.
+Epoch [24/100], Loss: 0.2456, Train Acc: 92.75%
+New best model saved to vgg16_model_best.pt.
+Epoch [25/100], Loss: 0.2280, Train Acc: 93.35%
+New best model saved to vgg16_model_best.pt.
+Epoch [26/100], Loss: 0.2164, Train Acc: 93.49%
+New best model saved to vgg16_model_best.pt.
+Epoch [27/100], Loss: 0.2005, Train Acc: 94.14%
+New best model saved to vgg16_model_best.pt.
+Epoch [28/100], Loss: 0.1887, Train Acc: 94.46%
+New best model saved to vgg16_model_best.pt.
+Epoch [29/100], Loss: 0.1794, Train Acc: 94.61%
+New best model saved to vgg16_model_best.pt.
+Epoch [30/100], Loss: 0.1659, Train Acc: 95.09%
+New best model saved to vgg16_model_best.pt.
+Epoch [31/100], Loss: 0.1563, Train Acc: 95.27%
+New best model saved to vgg16_model_best.pt.
+Epoch [32/100], Loss: 0.1561, Train Acc: 95.33%
+New best model saved to vgg16_model_best.pt.
+Epoch [33/100], Loss: 0.1434, Train Acc: 95.71%
+New best model saved to vgg16_model_best.pt.
+Epoch [34/100], Loss: 0.1366, Train Acc: 95.95%
+New best model saved to vgg16_model_best.pt.
+Epoch [35/100], Loss: 0.1324, Train Acc: 96.00%
+New best model saved to vgg16_model_best.pt.
+Epoch [36/100], Loss: 0.1323, Train Acc: 96.00%
+New best model saved to vgg16_model_best.pt.
+Epoch [37/100], Loss: 0.1199, Train Acc: 96.37%
+New best model saved to vgg16_model_best.pt.
+Epoch [38/100], Loss: 0.1224, Train Acc: 96.33%
+Epoch [39/100], Loss: 0.1138, Train Acc: 96.57%
+New best model saved to vgg16_model_best.pt.
+Epoch [40/100], Loss: 0.1091, Train Acc: 96.67%
+New best model saved to vgg16_model_best.pt.

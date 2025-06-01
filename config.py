@@ -44,10 +44,10 @@ class VGGConfig:
 class EfficientConfig:
     criterion = nn.CrossEntropyLoss()
     batch_size = 32
-    num_epochs = 2
+    num_epochs = 100
     learning_rate = 1e-4
     device = device
-    out_name = "efficientnetb0_finetune_model"
+    out_name = save_dir + "EfficientNet/efficientnetb0_finetune_model"
 
     @staticmethod
     def optimizer_fn(model):
@@ -56,22 +56,22 @@ class EfficientConfig:
 
 class ViTConfig:
     criterion = nn.CrossEntropyLoss()
-    num_epochs = 2
-    batch_size = 32
-    learning_rate = 2e-5
+    num_epochs = 100
+    batch_size = 64
+    learning_rate = 3e-4
     weight_decay = 0.01
-    T_max = 10
+    T_max = 50
     device = device
-    out_name = "ViT_finetune_model"
+    out_name = save_dir + "VisionTransfomers/ViT_finetune_model"
 
     @staticmethod
     def optimizer_fn(model):
         return optim.AdamW(model.parameters(), lr=ViTConfig.learning_rate)
 
     @staticmethod
-    def scheduler():
+    def scheduler(optimizer):
         return optim.lr_scheduler.CosineAnnealingLR(
-            optimizer=ViTConfig.optimizer_fn, 
+            optimizer=optimizer, 
             T_max=ViTConfig.T_max
         )
 

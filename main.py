@@ -85,11 +85,13 @@ if __name__ == "__main__":
 
     elif args.option == 5:
         model = efficientnet_b0(pretrained=True)
+        print(f'device: {EfficientConfig.device}')
+        model.to(EfficientConfig.device)
         summary(model, input_size=input_size)
 
         # train model
         EFFICIENT_B0.fine_tune(
-            model=model, train_loader=train_loader, model_config=EfficientConfig
+            model=model, train_loader=train_loader, val_loader=test_loader, model_config=EfficientConfig
         )
         # evaluate performance
         EFFICIENT_B0.evaluate(model=model, test_loader=test_loader, device=device)
@@ -108,10 +110,13 @@ if __name__ == "__main__":
         model = ViTForImageClassification.from_pretrained(
             vit_model_name, num_labels=100, ignore_mismatched_sizes=True
         )
-        summary(model, input_size=input_size)
+        model.to(ViTConfig.device)
+
+        # summary(model, input_size=input_size,device=ViTConfig.device)
+        print(model)
         # train model
         VisionTransfomers.fine_tune(
-            model=model, train_loader=train_loader, model_config=ViTConfig
+            model=model, train_loader=train_loader, val_loader=test_loader, model_config=ViTConfig
         )
 
         # evaluate performance

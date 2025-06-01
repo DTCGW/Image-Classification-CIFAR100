@@ -1,0 +1,227 @@
+[DenseNet121] Epoch 1: Train Loss=5827.9342, Train Acc=13.05%
+[DenseNet121] Test Accuracy: 18.87% | Avg Loss: 3.3471
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 2: Train Loss=4803.1296, Train Acc=24.20%
+[DenseNet121] Test Accuracy: 28.86% | Avg Loss: 2.7718
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 3: Train Loss=4111.4274, Train Acc=32.36%
+[DenseNet121] Test Accuracy: 36.91% | Avg Loss: 2.4088
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 4: Train Loss=3598.9343, Train Acc=39.05%
+[DenseNet121] Test Accuracy: 40.13% | Avg Loss: 2.2295
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 5: Train Loss=3223.9486, Train Acc=44.53%
+[DenseNet121] Test Accuracy: 45.11% | Avg Loss: 2.0144
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 6: Train Loss=2925.0182, Train Acc=48.62%
+[DenseNet121] Test Accuracy: 48.13% | Avg Loss: 1.8851
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 7: Train Loss=2689.3748, Train Acc=52.05%
+[DenseNet121] Test Accuracy: 53.17% | Avg Loss: 1.6887
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 8: Train Loss=2487.4185, Train Acc=55.18%
+[DenseNet121] Test Accuracy: 54.70% | Avg Loss: 1.6251
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 9: Train Loss=2313.6273, Train Acc=58.08%
+[DenseNet121] Test Accuracy: 55.01% | Avg Loss: 1.6059
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 10: Train Loss=2162.7212, Train Acc=60.45%
+[DenseNet121] Test Accuracy: 57.70% | Avg Loss: 1.5123
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 11: Train Loss=2016.1657, Train Acc=62.93%
+[DenseNet121] Test Accuracy: 58.63% | Avg Loss: 1.4394
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 12: Train Loss=1897.2496, Train Acc=64.87%
+[DenseNet121] Test Accuracy: 60.16% | Avg Loss: 1.3810
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 13: Train Loss=1777.5754, Train Acc=66.84%
+[DenseNet121] Test Accuracy: 60.16% | Avg Loss: 1.4051
+[DenseNet121] Epoch 14: Train Loss=1664.1222, Train Acc=68.59%
+[DenseNet121] Test Accuracy: 63.08% | Avg Loss: 1.2972
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 15: Train Loss=1569.6912, Train Acc=70.19%
+[DenseNet121] Test Accuracy: 63.19% | Avg Loss: 1.2898
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 16: Train Loss=1465.5292, Train Acc=72.09%
+[DenseNet121] Test Accuracy: 64.17% | Avg Loss: 1.2628
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 17: Train Loss=1376.5789, Train Acc=73.65%
+[DenseNet121] Test Accuracy: 64.34% | Avg Loss: 1.2716
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 18: Train Loss=1297.0411, Train Acc=74.87%
+[DenseNet121] Test Accuracy: 64.84% | Avg Loss: 1.2344
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 19: Train Loss=1216.4013, Train Acc=76.55%
+[DenseNet121] Test Accuracy: 65.78% | Avg Loss: 1.2473
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 20: Train Loss=1130.8157, Train Acc=78.17%
+[DenseNet121] Test Accuracy: 65.47% | Avg Loss: 1.2440
+[DenseNet121] Epoch 21: Train Loss=1062.0024, Train Acc=79.28%
+[DenseNet121] Test Accuracy: 65.00% | Avg Loss: 1.2720
+[DenseNet121] Epoch 22: Train Loss=991.6988, Train Acc=80.62%
+[DenseNet121] Test Accuracy: 66.97% | Avg Loss: 1.2127
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 23: Train Loss=934.8326, Train Acc=81.53%
+[DenseNet121] Test Accuracy: 66.27% | Avg Loss: 1.2290
+[DenseNet121] Epoch 24: Train Loss=872.5669, Train Acc=82.81%
+[DenseNet121] Test Accuracy: 65.99% | Avg Loss: 1.2661
+[DenseNet121] Epoch 25: Train Loss=815.4208, Train Acc=83.75%
+[DenseNet121] Test Accuracy: 65.95% | Avg Loss: 1.2696
+[DenseNet121] Epoch 26: Train Loss=755.5830, Train Acc=84.92%
+[DenseNet121] Test Accuracy: 66.01% | Avg Loss: 1.2693
+[DenseNet121] Epoch 27: Train Loss=703.5179, Train Acc=85.92%
+[DenseNet121] Test Accuracy: 66.93% | Avg Loss: 1.2447
+[DenseNet121] Epoch 28: Train Loss=656.8707, Train Acc=86.84%
+[DenseNet121] Test Accuracy: 66.95% | Avg Loss: 1.2684
+[DenseNet121] Epoch 29: Train Loss=614.5893, Train Acc=87.68%
+[DenseNet121] Test Accuracy: 66.16% | Avg Loss: 1.3365
+[DenseNet121] Epoch 30: Train Loss=575.0291, Train Acc=88.52%
+[DenseNet121] Test Accuracy: 66.93% | Avg Loss: 1.3057
+[DenseNet121] Epoch 31: Train Loss=541.5047, Train Acc=89.22%
+[DenseNet121] Test Accuracy: 67.76% | Avg Loss: 1.2950
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 32: Train Loss=508.0550, Train Acc=89.85%
+[DenseNet121] Test Accuracy: 66.24% | Avg Loss: 1.3680
+[DenseNet121] Epoch 33: Train Loss=474.1792, Train Acc=90.56%
+[DenseNet121] Test Accuracy: 66.47% | Avg Loss: 1.3827
+[DenseNet121] Epoch 34: Train Loss=432.4879, Train Acc=91.37%
+[DenseNet121] Test Accuracy: 68.14% | Avg Loss: 1.3013
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 35: Train Loss=419.6018, Train Acc=91.47%
+[DenseNet121] Test Accuracy: 67.02% | Avg Loss: 1.3510
+[DenseNet121] Epoch 36: Train Loss=399.3305, Train Acc=92.03%
+[DenseNet121] Test Accuracy: 67.23% | Avg Loss: 1.3790
+[DenseNet121] Epoch 37: Train Loss=376.0344, Train Acc=92.49%
+[DenseNet121] Test Accuracy: 66.95% | Avg Loss: 1.3673
+[DenseNet121] Epoch 38: Train Loss=347.1621, Train Acc=93.11%
+[DenseNet121] Test Accuracy: 67.80% | Avg Loss: 1.3521
+[DenseNet121] Epoch 39: Train Loss=329.1619, Train Acc=93.41%
+[DenseNet121] Test Accuracy: 67.59% | Avg Loss: 1.4358
+[DenseNet121] Epoch 40: Train Loss=314.3192, Train Acc=93.69%
+[DenseNet121] Test Accuracy: 67.53% | Avg Loss: 1.4393
+[DenseNet121] Epoch 41: Train Loss=297.5769, Train Acc=94.09%
+[DenseNet121] Test Accuracy: 67.02% | Avg Loss: 1.4439
+[DenseNet121] Epoch 42: Train Loss=285.0719, Train Acc=94.22%
+[DenseNet121] Test Accuracy: 66.59% | Avg Loss: 1.4744
+[DenseNet121] Epoch 43: Train Loss=279.4114, Train Acc=94.37%
+[DenseNet121] Test Accuracy: 67.96% | Avg Loss: 1.4015
+[DenseNet121] Epoch 44: Train Loss=257.3588, Train Acc=94.89%
+[DenseNet121] Test Accuracy: 67.87% | Avg Loss: 1.4211
+[DenseNet121] Epoch 45: Train Loss=255.3852, Train Acc=94.93%
+[DenseNet121] Test Accuracy: 67.60% | Avg Loss: 1.4747
+[DenseNet121] Epoch 46: Train Loss=237.9537, Train Acc=95.20%
+[DenseNet121] Test Accuracy: 67.05% | Avg Loss: 1.5279
+[DenseNet121] Epoch 47: Train Loss=236.2731, Train Acc=95.26%
+[DenseNet121] Test Accuracy: 68.09% | Avg Loss: 1.4660
+[DenseNet121] Epoch 48: Train Loss=223.9646, Train Acc=95.55%
+[DenseNet121] Test Accuracy: 68.12% | Avg Loss: 1.4989
+[DenseNet121] Epoch 49: Train Loss=206.3110, Train Acc=95.93%
+[DenseNet121] Test Accuracy: 67.66% | Avg Loss: 1.4814
+[DenseNet121] Epoch 50: Train Loss=210.6442, Train Acc=95.78%
+[DenseNet121] Test Accuracy: 67.34% | Avg Loss: 1.5426
+[DenseNet121] Epoch 51: Train Loss=197.7386, Train Acc=96.10%
+[DenseNet121] Test Accuracy: 67.37% | Avg Loss: 1.5728
+[DenseNet121] Epoch 52: Train Loss=190.1515, Train Acc=96.15%
+[DenseNet121] Test Accuracy: 68.13% | Avg Loss: 1.4854
+[DenseNet121] Epoch 53: Train Loss=185.1879, Train Acc=96.32%
+[DenseNet121] Test Accuracy: 68.12% | Avg Loss: 1.5157
+[DenseNet121] Epoch 54: Train Loss=172.7212, Train Acc=96.60%
+[DenseNet121] Test Accuracy: 67.71% | Avg Loss: 1.5482
+[DenseNet121] Epoch 55: Train Loss=187.8419, Train Acc=96.21%
+[DenseNet121] Test Accuracy: 67.66% | Avg Loss: 1.5542
+[DenseNet121] Epoch 56: Train Loss=167.5872, Train Acc=96.76%
+[DenseNet121] Test Accuracy: 67.85% | Avg Loss: 1.5270
+[DenseNet121] Epoch 57: Train Loss=169.5720, Train Acc=96.55%
+[DenseNet121] Test Accuracy: 67.79% | Avg Loss: 1.6015
+[DenseNet121] Epoch 58: Train Loss=153.2131, Train Acc=96.95%
+[DenseNet121] Test Accuracy: 67.67% | Avg Loss: 1.5615
+[DenseNet121] Epoch 59: Train Loss=148.1811, Train Acc=97.08%
+[DenseNet121] Test Accuracy: 67.14% | Avg Loss: 1.6473
+[DenseNet121] Epoch 60: Train Loss=162.1268, Train Acc=96.71%
+[DenseNet121] Test Accuracy: 67.67% | Avg Loss: 1.6161
+[DenseNet121] Epoch 61: Train Loss=152.1195, Train Acc=96.95%
+[DenseNet121] Test Accuracy: 68.42% | Avg Loss: 1.5700
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 62: Train Loss=140.4410, Train Acc=97.22%
+[DenseNet121] Test Accuracy: 67.42% | Avg Loss: 1.6206
+[DenseNet121] Epoch 63: Train Loss=138.6334, Train Acc=97.25%
+[DenseNet121] Test Accuracy: 68.18% | Avg Loss: 1.5941
+[DenseNet121] Epoch 64: Train Loss=141.8679, Train Acc=97.19%
+[DenseNet121] Test Accuracy: 68.59% | Avg Loss: 1.6134
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 65: Train Loss=123.2958, Train Acc=97.55%
+[DenseNet121] Test Accuracy: 68.42% | Avg Loss: 1.6394
+[DenseNet121] Epoch 66: Train Loss=136.0971, Train Acc=97.34%
+[DenseNet121] Test Accuracy: 69.11% | Avg Loss: 1.6198
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 67: Train Loss=124.3326, Train Acc=97.53%
+[DenseNet121] Test Accuracy: 68.01% | Avg Loss: 1.6574
+[DenseNet121] Epoch 68: Train Loss=128.2186, Train Acc=97.52%
+[DenseNet121] Test Accuracy: 68.75% | Avg Loss: 1.6405
+[DenseNet121] Epoch 69: Train Loss=124.0523, Train Acc=97.68%
+[DenseNet121] Test Accuracy: 68.39% | Avg Loss: 1.6249
+[DenseNet121] Epoch 70: Train Loss=122.6316, Train Acc=97.61%
+[DenseNet121] Test Accuracy: 68.11% | Avg Loss: 1.6616
+[DenseNet121] Epoch 71: Train Loss=114.5751, Train Acc=97.82%
+[DenseNet121] Test Accuracy: 69.13% | Avg Loss: 1.5957
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 72: Train Loss=111.5313, Train Acc=97.83%
+[DenseNet121] Test Accuracy: 67.27% | Avg Loss: 1.6851
+[DenseNet121] Epoch 73: Train Loss=118.6935, Train Acc=97.65%
+[DenseNet121] Test Accuracy: 68.38% | Avg Loss: 1.6645
+[DenseNet121] Epoch 74: Train Loss=117.1271, Train Acc=97.72%
+[DenseNet121] Test Accuracy: 68.64% | Avg Loss: 1.6240
+[DenseNet121] Epoch 75: Train Loss=109.7230, Train Acc=97.78%
+[DenseNet121] Test Accuracy: 68.70% | Avg Loss: 1.6479
+[DenseNet121] Epoch 76: Train Loss=99.8077, Train Acc=97.98%
+[DenseNet121] Test Accuracy: 67.80% | Avg Loss: 1.7054
+[DenseNet121] Epoch 77: Train Loss=107.3207, Train Acc=97.87%
+[DenseNet121] Test Accuracy: 68.36% | Avg Loss: 1.6607
+[DenseNet121] Epoch 78: Train Loss=97.7418, Train Acc=98.06%
+[DenseNet121] Test Accuracy: 68.62% | Avg Loss: 1.6755
+[DenseNet121] Epoch 79: Train Loss=101.2449, Train Acc=97.96%
+[DenseNet121] Test Accuracy: 68.73% | Avg Loss: 1.6791
+[DenseNet121] Epoch 80: Train Loss=102.4930, Train Acc=97.98%
+[DenseNet121] Test Accuracy: 69.20% | Avg Loss: 1.6660
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 81: Train Loss=99.7617, Train Acc=97.99%
+[DenseNet121] Test Accuracy: 68.24% | Avg Loss: 1.6873
+[DenseNet121] Epoch 82: Train Loss=95.3794, Train Acc=98.06%
+[DenseNet121] Test Accuracy: 68.30% | Avg Loss: 1.7227
+[DenseNet121] Epoch 83: Train Loss=90.2234, Train Acc=98.26%
+[DenseNet121] Test Accuracy: 68.67% | Avg Loss: 1.7312
+[DenseNet121] Epoch 84: Train Loss=97.6869, Train Acc=98.12%
+[DenseNet121] Test Accuracy: 68.57% | Avg Loss: 1.7186
+[DenseNet121] Epoch 85: Train Loss=89.1940, Train Acc=98.20%
+[DenseNet121] Test Accuracy: 67.79% | Avg Loss: 1.7399
+[DenseNet121] Epoch 86: Train Loss=92.0857, Train Acc=98.09%
+[DenseNet121] Test Accuracy: 67.51% | Avg Loss: 1.7974
+[DenseNet121] Epoch 87: Train Loss=81.9029, Train Acc=98.39%
+[DenseNet121] Test Accuracy: 68.21% | Avg Loss: 1.7685
+[DenseNet121] Epoch 88: Train Loss=90.2986, Train Acc=98.11%
+[DenseNet121] Test Accuracy: 68.64% | Avg Loss: 1.7492
+[DenseNet121] Epoch 89: Train Loss=88.4016, Train Acc=98.22%
+[DenseNet121] Test Accuracy: 69.03% | Avg Loss: 1.7081
+[DenseNet121] Epoch 90: Train Loss=90.0464, Train Acc=98.14%
+[DenseNet121] Test Accuracy: 68.37% | Avg Loss: 1.7372
+[DenseNet121] Epoch 91: Train Loss=77.9787, Train Acc=98.44%
+[DenseNet121] Test Accuracy: 68.06% | Avg Loss: 1.7605
+[DenseNet121] Epoch 92: Train Loss=81.6400, Train Acc=98.38%
+[DenseNet121] Test Accuracy: 69.51% | Avg Loss: 1.7219
+[DenseNet121] New best model saved.
+[DenseNet121] Epoch 93: Train Loss=79.2212, Train Acc=98.41%
+[DenseNet121] Test Accuracy: 68.77% | Avg Loss: 1.7629
+[DenseNet121] Epoch 94: Train Loss=79.5638, Train Acc=98.45%
+[DenseNet121] Test Accuracy: 68.91% | Avg Loss: 1.7553
+[DenseNet121] Epoch 95: Train Loss=71.3758, Train Acc=98.60%
+[DenseNet121] Test Accuracy: 68.81% | Avg Loss: 1.7360
+[DenseNet121] Epoch 96: Train Loss=78.3188, Train Acc=98.44%
+[DenseNet121] Test Accuracy: 67.94% | Avg Loss: 1.7902
+[DenseNet121] Epoch 97: Train Loss=77.3074, Train Acc=98.45%
+[DenseNet121] Test Accuracy: 68.47% | Avg Loss: 1.7886
+[DenseNet121] Epoch 98: Train Loss=74.3541, Train Acc=98.50%
+[DenseNet121] Test Accuracy: 68.20% | Avg Loss: 1.8230
+[DenseNet121] Epoch 99: Train Loss=73.6523, Train Acc=98.50%
+[DenseNet121] Test Accuracy: 69.08% | Avg Loss: 1.7478
+[DenseNet121] Epoch 100: Train Loss=69.0030, Train Acc=98.59%
+[DenseNet121] Test Accuracy: 69.23% | Avg Loss: 1.7564

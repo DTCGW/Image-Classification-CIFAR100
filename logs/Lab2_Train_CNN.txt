@@ -1,0 +1,183 @@
+Epoch [1/100], Loss: 4.0180, Train Acc: 8.00%
+New best model saved to cnn_model_best.pt.
+Epoch [2/100], Loss: 3.7474, Train Acc: 11.52%
+New best model saved to cnn_model_best.pt.
+Epoch [3/100], Loss: 3.6197, Train Acc: 13.72%
+New best model saved to cnn_model_best.pt.
+Epoch [4/100], Loss: 3.5310, Train Acc: 15.30%
+New best model saved to cnn_model_best.pt.
+Epoch [5/100], Loss: 3.4477, Train Acc: 16.71%
+New best model saved to cnn_model_best.pt.
+Epoch [6/100], Loss: 3.3433, Train Acc: 18.72%
+New best model saved to cnn_model_best.pt.
+Epoch [7/100], Loss: 3.2329, Train Acc: 20.52%
+New best model saved to cnn_model_best.pt.
+Epoch [8/100], Loss: 3.1504, Train Acc: 21.96%
+New best model saved to cnn_model_best.pt.
+Epoch [9/100], Loss: 3.0847, Train Acc: 23.28%
+New best model saved to cnn_model_best.pt.
+Epoch [10/100], Loss: 3.0182, Train Acc: 24.20%
+New best model saved to cnn_model_best.pt.
+Epoch [11/100], Loss: 2.9637, Train Acc: 25.21%
+New best model saved to cnn_model_best.pt.
+Epoch [12/100], Loss: 2.9206, Train Acc: 26.29%
+New best model saved to cnn_model_best.pt.
+Epoch [13/100], Loss: 2.8745, Train Acc: 27.21%
+New best model saved to cnn_model_best.pt.
+Epoch [14/100], Loss: 2.8302, Train Acc: 27.97%
+New best model saved to cnn_model_best.pt.
+Epoch [15/100], Loss: 2.7964, Train Acc: 28.86%
+New best model saved to cnn_model_best.pt.
+Epoch [16/100], Loss: 2.7631, Train Acc: 29.34%
+New best model saved to cnn_model_best.pt.
+Epoch [17/100], Loss: 2.7317, Train Acc: 30.14%
+New best model saved to cnn_model_best.pt.
+Epoch [18/100], Loss: 2.6988, Train Acc: 30.53%
+New best model saved to cnn_model_best.pt.
+Epoch [19/100], Loss: 2.6714, Train Acc: 31.12%
+New best model saved to cnn_model_best.pt.
+Epoch [20/100], Loss: 2.6487, Train Acc: 31.44%
+New best model saved to cnn_model_best.pt.
+Epoch [21/100], Loss: 2.6177, Train Acc: 32.33%
+New best model saved to cnn_model_best.pt.
+Epoch [22/100], Loss: 2.6060, Train Acc: 32.51%
+New best model saved to cnn_model_best.pt.
+Epoch [23/100], Loss: 2.5840, Train Acc: 33.10%
+New best model saved to cnn_model_best.pt.
+Epoch [24/100], Loss: 2.5535, Train Acc: 33.63%
+New best model saved to cnn_model_best.pt.
+Epoch [25/100], Loss: 2.5395, Train Acc: 33.84%
+New best model saved to cnn_model_best.pt.
+Epoch [26/100], Loss: 2.5261, Train Acc: 34.01%
+New best model saved to cnn_model_best.pt.
+Epoch [27/100], Loss: 2.5073, Train Acc: 34.41%
+New best model saved to cnn_model_best.pt.
+Epoch [28/100], Loss: 2.4831, Train Acc: 34.86%
+New best model saved to cnn_model_best.pt.
+Epoch [29/100], Loss: 2.4716, Train Acc: 35.17%
+New best model saved to cnn_model_best.pt.
+Epoch [30/100], Loss: 2.4534, Train Acc: 35.73%
+New best model saved to cnn_model_best.pt.
+Epoch [31/100], Loss: 2.4419, Train Acc: 35.86%
+New best model saved to cnn_model_best.pt.
+Epoch [32/100], Loss: 2.4208, Train Acc: 36.28%
+New best model saved to cnn_model_best.pt.
+Epoch [33/100], Loss: 2.4088, Train Acc: 36.45%
+New best model saved to cnn_model_best.pt.
+Epoch [34/100], Loss: 2.3965, Train Acc: 36.87%
+New best model saved to cnn_model_best.pt.
+Epoch [35/100], Loss: 2.3808, Train Acc: 36.99%
+New best model saved to cnn_model_best.pt.
+Epoch [36/100], Loss: 2.3711, Train Acc: 37.34%
+New best model saved to cnn_model_best.pt.
+Epoch [37/100], Loss: 2.3534, Train Acc: 37.82%
+New best model saved to cnn_model_best.pt.
+Epoch [38/100], Loss: 2.3389, Train Acc: 38.17%
+New best model saved to cnn_model_best.pt.
+Epoch [39/100], Loss: 2.3357, Train Acc: 37.97%
+Epoch [40/100], Loss: 2.3271, Train Acc: 38.62%
+New best model saved to cnn_model_best.pt.
+Epoch [41/100], Loss: 2.3132, Train Acc: 38.54%
+Epoch [42/100], Loss: 2.2998, Train Acc: 38.97%
+New best model saved to cnn_model_best.pt.
+Epoch [43/100], Loss: 2.2830, Train Acc: 39.32%
+New best model saved to cnn_model_best.pt.
+Epoch [44/100], Loss: 2.2870, Train Acc: 39.10%
+Epoch [45/100], Loss: 2.2683, Train Acc: 39.84%
+New best model saved to cnn_model_best.pt.
+Epoch [46/100], Loss: 2.2562, Train Acc: 39.88%
+New best model saved to cnn_model_best.pt.
+Epoch [47/100], Loss: 2.2498, Train Acc: 40.07%
+New best model saved to cnn_model_best.pt.
+Epoch [48/100], Loss: 2.2411, Train Acc: 40.08%
+New best model saved to cnn_model_best.pt.
+Epoch [49/100], Loss: 2.2329, Train Acc: 40.34%
+New best model saved to cnn_model_best.pt.
+Epoch [50/100], Loss: 2.2231, Train Acc: 40.40%
+New best model saved to cnn_model_best.pt.
+Epoch [51/100], Loss: 2.2119, Train Acc: 40.56%
+New best model saved to cnn_model_best.pt.
+Epoch [52/100], Loss: 2.2049, Train Acc: 40.94%
+New best model saved to cnn_model_best.pt.
+Epoch [53/100], Loss: 2.1920, Train Acc: 41.14%
+New best model saved to cnn_model_best.pt.
+Epoch [54/100], Loss: 2.1830, Train Acc: 41.51%
+New best model saved to cnn_model_best.pt.
+Epoch [55/100], Loss: 2.1804, Train Acc: 41.52%
+New best model saved to cnn_model_best.pt.
+Epoch [56/100], Loss: 2.1669, Train Acc: 41.52%
+Epoch [57/100], Loss: 2.1595, Train Acc: 41.75%
+New best model saved to cnn_model_best.pt.
+Epoch [58/100], Loss: 2.1545, Train Acc: 42.08%
+New best model saved to cnn_model_best.pt.
+Epoch [59/100], Loss: 2.1448, Train Acc: 42.33%
+New best model saved to cnn_model_best.pt.
+Epoch [60/100], Loss: 2.1350, Train Acc: 42.37%
+New best model saved to cnn_model_best.pt.
+Epoch [61/100], Loss: 2.1364, Train Acc: 42.49%
+New best model saved to cnn_model_best.pt.
+Epoch [62/100], Loss: 2.1227, Train Acc: 42.71%
+New best model saved to cnn_model_best.pt.
+Epoch [63/100], Loss: 2.1160, Train Acc: 42.80%
+New best model saved to cnn_model_best.pt.
+Epoch [64/100], Loss: 2.1072, Train Acc: 43.02%
+New best model saved to cnn_model_best.pt.
+Epoch [65/100], Loss: 2.1014, Train Acc: 43.18%
+New best model saved to cnn_model_best.pt.
+Epoch [66/100], Loss: 2.0882, Train Acc: 43.38%
+New best model saved to cnn_model_best.pt.
+Epoch [67/100], Loss: 2.0841, Train Acc: 43.56%
+New best model saved to cnn_model_best.pt.
+Epoch [68/100], Loss: 2.0802, Train Acc: 43.69%
+New best model saved to cnn_model_best.pt.
+Epoch [69/100], Loss: 2.0684, Train Acc: 43.90%
+New best model saved to cnn_model_best.pt.
+Epoch [70/100], Loss: 2.0683, Train Acc: 43.71%
+Epoch [71/100], Loss: 2.0646, Train Acc: 44.16%
+New best model saved to cnn_model_best.pt.
+Epoch [72/100], Loss: 2.0624, Train Acc: 43.88%
+Epoch [73/100], Loss: 2.0522, Train Acc: 44.68%
+New best model saved to cnn_model_best.pt.
+Epoch [74/100], Loss: 2.0449, Train Acc: 44.62%
+Epoch [75/100], Loss: 2.0367, Train Acc: 44.97%
+New best model saved to cnn_model_best.pt.
+Epoch [76/100], Loss: 2.0295, Train Acc: 44.67%
+Epoch [77/100], Loss: 2.0245, Train Acc: 44.93%
+Epoch [78/100], Loss: 2.0269, Train Acc: 44.73%
+Epoch [79/100], Loss: 2.0178, Train Acc: 44.83%
+Epoch [80/100], Loss: 2.0063, Train Acc: 45.11%
+New best model saved to cnn_model_best.pt.
+Epoch [81/100], Loss: 2.0018, Train Acc: 45.15%
+New best model saved to cnn_model_best.pt.
+Epoch [82/100], Loss: 1.9961, Train Acc: 45.38%
+New best model saved to cnn_model_best.pt.
+Epoch [83/100], Loss: 1.9967, Train Acc: 45.67%
+New best model saved to cnn_model_best.pt.
+Epoch [84/100], Loss: 1.9940, Train Acc: 45.70%
+New best model saved to cnn_model_best.pt.
+Epoch [85/100], Loss: 1.9823, Train Acc: 45.86%
+New best model saved to cnn_model_best.pt.
+Epoch [86/100], Loss: 1.9867, Train Acc: 45.81%
+Epoch [87/100], Loss: 1.9811, Train Acc: 45.81%
+Epoch [88/100], Loss: 1.9685, Train Acc: 46.25%
+New best model saved to cnn_model_best.pt.
+Epoch [89/100], Loss: 1.9550, Train Acc: 46.53%
+New best model saved to cnn_model_best.pt.
+Epoch [90/100], Loss: 1.9627, Train Acc: 46.35%
+Epoch [91/100], Loss: 1.9531, Train Acc: 46.62%
+New best model saved to cnn_model_best.pt.
+Epoch [92/100], Loss: 1.9518, Train Acc: 46.31%
+Epoch [93/100], Loss: 1.9479, Train Acc: 46.40%
+Epoch [94/100], Loss: 1.9448, Train Acc: 46.46%
+Epoch [95/100], Loss: 1.9352, Train Acc: 46.68%
+New best model saved to cnn_model_best.pt.
+Epoch [96/100], Loss: 1.9364, Train Acc: 46.96%
+New best model saved to cnn_model_best.pt.
+Epoch [97/100], Loss: 1.9328, Train Acc: 47.15%
+New best model saved to cnn_model_best.pt.
+Epoch [98/100], Loss: 1.9240, Train Acc: 47.20%
+New best model saved to cnn_model_best.pt.
+Epoch [99/100], Loss: 1.9196, Train Acc: 47.29%
+New best model saved to cnn_model_best.pt.
+Epoch [100/100], Loss: 1.9137, Train Acc: 47.32%
+New best model saved to cnn_model_best.pt.

@@ -1,0 +1,222 @@
+[ConvNeXtTiny] Epoch 1: Loss=5431.8929, Accuracy=22.61%
+[ConvNeXtTiny] Evaluation after Epoch 1: Loss=2.9063, Accuracy=36.33%
+[ConvNeXtTiny] Checkpoint saved at Epoch 1 with Accuracy=36.33%
+[ConvNeXtTiny] Epoch 2: Loss=4152.9724, Accuracy=43.05%
+[ConvNeXtTiny] Evaluation after Epoch 2: Loss=2.4467, Accuracy=49.20%
+[ConvNeXtTiny] Checkpoint saved at Epoch 2 with Accuracy=49.20%
+[ConvNeXtTiny] Epoch 3: Loss=3507.2567, Accuracy=55.48%
+[ConvNeXtTiny] Evaluation after Epoch 3: Loss=2.2886, Accuracy=54.59%
+[ConvNeXtTiny] Checkpoint saved at Epoch 3 with Accuracy=54.59%
+[ConvNeXtTiny] Epoch 4: Loss=3034.7526, Accuracy=65.17%
+[ConvNeXtTiny] Evaluation after Epoch 4: Loss=2.1183, Accuracy=58.78%
+[ConvNeXtTiny] Checkpoint saved at Epoch 4 with Accuracy=58.78%
+[ConvNeXtTiny] Epoch 5: Loss=2630.5726, Accuracy=74.27%
+[ConvNeXtTiny] Evaluation after Epoch 5: Loss=2.0689, Accuracy=61.34%
+[ConvNeXtTiny] Checkpoint saved at Epoch 5 with Accuracy=61.34%
+[ConvNeXtTiny] Epoch 6: Loss=2268.0829, Accuracy=82.56%
+[ConvNeXtTiny] Evaluation after Epoch 6: Loss=2.0401, Accuracy=62.48%
+[ConvNeXtTiny] Checkpoint saved at Epoch 6 with Accuracy=62.48%
+[ConvNeXtTiny] Epoch 7: Loss=1975.7145, Accuracy=89.68%
+[ConvNeXtTiny] Evaluation after Epoch 7: Loss=2.0217, Accuracy=63.40%
+[ConvNeXtTiny] Checkpoint saved at Epoch 7 with Accuracy=63.40%
+[ConvNeXtTiny] Epoch 8: Loss=1769.9689, Accuracy=94.20%
+[ConvNeXtTiny] Evaluation after Epoch 8: Loss=2.0329, Accuracy=63.39%
+[ConvNeXtTiny] Epoch 9: Loss=1648.0016, Accuracy=96.50%
+[ConvNeXtTiny] Evaluation after Epoch 9: Loss=2.0153, Accuracy=64.49%
+[ConvNeXtTiny] Checkpoint saved at Epoch 9 with Accuracy=64.49%
+[ConvNeXtTiny] Epoch 10: Loss=1576.4028, Accuracy=97.75%
+[ConvNeXtTiny] Evaluation after Epoch 10: Loss=2.0237, Accuracy=64.06%
+[ConvNeXtTiny] Epoch 11: Loss=1527.8398, Accuracy=98.42%
+[ConvNeXtTiny] Evaluation after Epoch 11: Loss=2.0108, Accuracy=64.93%
+[ConvNeXtTiny] Checkpoint saved at Epoch 11 with Accuracy=64.93%
+[ConvNeXtTiny] Epoch 12: Loss=1496.0054, Accuracy=98.83%
+[ConvNeXtTiny] Evaluation after Epoch 12: Loss=1.9765, Accuracy=65.78%
+[ConvNeXtTiny] Checkpoint saved at Epoch 12 with Accuracy=65.78%
+[ConvNeXtTiny] Epoch 13: Loss=1473.3226, Accuracy=99.05%
+[ConvNeXtTiny] Evaluation after Epoch 13: Loss=1.9918, Accuracy=65.91%
+[ConvNeXtTiny] Checkpoint saved at Epoch 13 with Accuracy=65.91%
+[ConvNeXtTiny] Epoch 14: Loss=1448.3897, Accuracy=99.32%
+[ConvNeXtTiny] Evaluation after Epoch 14: Loss=1.9768, Accuracy=66.42%
+[ConvNeXtTiny] Checkpoint saved at Epoch 14 with Accuracy=66.42%
+[ConvNeXtTiny] Epoch 15: Loss=1436.2720, Accuracy=99.45%
+[ConvNeXtTiny] Evaluation after Epoch 15: Loss=2.0020, Accuracy=65.46%
+[ConvNeXtTiny] Epoch 16: Loss=1420.3496, Accuracy=99.61%
+[ConvNeXtTiny] Evaluation after Epoch 16: Loss=1.9732, Accuracy=66.94%
+[ConvNeXtTiny] Checkpoint saved at Epoch 16 with Accuracy=66.94%
+[ConvNeXtTiny] Epoch 17: Loss=1407.8160, Accuracy=99.67%
+[ConvNeXtTiny] Evaluation after Epoch 17: Loss=1.9620, Accuracy=66.92%
+[ConvNeXtTiny] Epoch 18: Loss=1395.9582, Accuracy=99.75%
+[ConvNeXtTiny] Evaluation after Epoch 18: Loss=1.9798, Accuracy=66.76%
+[ConvNeXtTiny] Epoch 19: Loss=1388.6156, Accuracy=99.78%
+[ConvNeXtTiny] Evaluation after Epoch 19: Loss=1.9591, Accuracy=67.49%
+[ConvNeXtTiny] Checkpoint saved at Epoch 19 with Accuracy=67.49%
+[ConvNeXtTiny] Epoch 20: Loss=1379.1060, Accuracy=99.83%
+[ConvNeXtTiny] Evaluation after Epoch 20: Loss=1.9705, Accuracy=67.29%
+[ConvNeXtTiny] Epoch 21: Loss=1371.8594, Accuracy=99.85%
+[ConvNeXtTiny] Evaluation after Epoch 21: Loss=1.9631, Accuracy=67.86%
+[ConvNeXtTiny] Checkpoint saved at Epoch 21 with Accuracy=67.86%
+[ConvNeXtTiny] Epoch 22: Loss=1366.2892, Accuracy=99.87%
+[ConvNeXtTiny] Evaluation after Epoch 22: Loss=1.9541, Accuracy=67.88%
+[ConvNeXtTiny] Checkpoint saved at Epoch 22 with Accuracy=67.88%
+[ConvNeXtTiny] Epoch 23: Loss=1358.4569, Accuracy=99.89%
+[ConvNeXtTiny] Evaluation after Epoch 23: Loss=1.9821, Accuracy=66.98%
+[ConvNeXtTiny] Epoch 24: Loss=1353.5878, Accuracy=99.90%
+[ConvNeXtTiny] Evaluation after Epoch 24: Loss=1.9420, Accuracy=67.76%
+[ConvNeXtTiny] Epoch 25: Loss=1347.7284, Accuracy=99.90%
+[ConvNeXtTiny] Evaluation after Epoch 25: Loss=1.9634, Accuracy=67.79%
+[ConvNeXtTiny] Epoch 26: Loss=1343.1113, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 26: Loss=1.9542, Accuracy=67.42%
+[ConvNeXtTiny] Epoch 27: Loss=1338.3733, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 27: Loss=1.9499, Accuracy=68.42%
+[ConvNeXtTiny] Checkpoint saved at Epoch 27 with Accuracy=68.42%
+[ConvNeXtTiny] Epoch 28: Loss=1333.5990, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 28: Loss=1.9354, Accuracy=68.59%
+[ConvNeXtTiny] Checkpoint saved at Epoch 28 with Accuracy=68.59%
+[ConvNeXtTiny] Epoch 29: Loss=1329.4164, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 29: Loss=1.9525, Accuracy=68.17%
+[ConvNeXtTiny] Epoch 30: Loss=1326.7967, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 30: Loss=1.9616, Accuracy=67.56%
+[ConvNeXtTiny] Epoch 31: Loss=1325.8979, Accuracy=99.91%
+[ConvNeXtTiny] Evaluation after Epoch 31: Loss=1.9454, Accuracy=68.38%
+[ConvNeXtTiny] Epoch 32: Loss=1320.1243, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 32: Loss=1.9487, Accuracy=68.33%
+[ConvNeXtTiny] Epoch 33: Loss=1316.0482, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 33: Loss=1.9555, Accuracy=68.61%
+[ConvNeXtTiny] Checkpoint saved at Epoch 33 with Accuracy=68.61%
+[ConvNeXtTiny] Epoch 34: Loss=1313.2140, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 34: Loss=1.9388, Accuracy=68.53%
+[ConvNeXtTiny] Epoch 35: Loss=1309.5955, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 35: Loss=1.9293, Accuracy=68.88%
+[ConvNeXtTiny] Checkpoint saved at Epoch 35 with Accuracy=68.88%
+[ConvNeXtTiny] Epoch 36: Loss=1307.1439, Accuracy=99.96%
+[ConvNeXtTiny] Evaluation after Epoch 36: Loss=1.9388, Accuracy=68.89%
+[ConvNeXtTiny] Checkpoint saved at Epoch 36 with Accuracy=68.89%
+[ConvNeXtTiny] Epoch 37: Loss=1305.7881, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 37: Loss=1.9379, Accuracy=68.46%
+[ConvNeXtTiny] Epoch 38: Loss=1302.2165, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 38: Loss=1.9336, Accuracy=68.86%
+[ConvNeXtTiny] Epoch 39: Loss=1298.8877, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 39: Loss=1.9367, Accuracy=69.26%
+[ConvNeXtTiny] Checkpoint saved at Epoch 39 with Accuracy=69.26%
+[ConvNeXtTiny] Epoch 40: Loss=1297.0692, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 40: Loss=1.9424, Accuracy=68.26%
+[ConvNeXtTiny] Epoch 41: Loss=1293.5750, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 41: Loss=1.9340, Accuracy=69.12%
+[ConvNeXtTiny] Epoch 42: Loss=1293.2292, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 42: Loss=1.9276, Accuracy=68.90%
+[ConvNeXtTiny] Epoch 43: Loss=1288.2595, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 43: Loss=1.9295, Accuracy=68.71%
+[ConvNeXtTiny] Epoch 44: Loss=1286.7148, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 44: Loss=1.9465, Accuracy=68.45%
+[ConvNeXtTiny] Epoch 45: Loss=1284.7837, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 45: Loss=1.9451, Accuracy=68.23%
+[ConvNeXtTiny] Epoch 46: Loss=1282.8455, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 46: Loss=1.9548, Accuracy=68.00%
+[ConvNeXtTiny] Epoch 47: Loss=1280.2717, Accuracy=99.96%
+[ConvNeXtTiny] Evaluation after Epoch 47: Loss=1.9328, Accuracy=68.73%
+[ConvNeXtTiny] Epoch 48: Loss=1277.8674, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 48: Loss=1.9478, Accuracy=68.19%
+[ConvNeXtTiny] Epoch 49: Loss=1277.1963, Accuracy=99.95%
+[ConvNeXtTiny] Evaluation after Epoch 49: Loss=1.9314, Accuracy=68.33%
+[ConvNeXtTiny] Epoch 50: Loss=1274.7564, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 50: Loss=1.9415, Accuracy=68.23%
+[ConvNeXtTiny] Epoch 51: Loss=1272.4127, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 51: Loss=1.9392, Accuracy=68.13%
+[ConvNeXtTiny] Epoch 52: Loss=1271.3940, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 52: Loss=1.9092, Accuracy=69.13%
+[ConvNeXtTiny] Epoch 53: Loss=1269.4364, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 53: Loss=1.9240, Accuracy=68.44%
+[ConvNeXtTiny] Epoch 54: Loss=1266.5248, Accuracy=99.93%
+[ConvNeXtTiny] Evaluation after Epoch 54: Loss=1.9486, Accuracy=67.44%
+[ConvNeXtTiny] Epoch 55: Loss=1267.8514, Accuracy=99.90%
+[ConvNeXtTiny] Evaluation after Epoch 55: Loss=1.9334, Accuracy=67.56%
+[ConvNeXtTiny] Epoch 56: Loss=1265.8954, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 56: Loss=1.9345, Accuracy=67.92%
+[ConvNeXtTiny] Epoch 57: Loss=1261.8242, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 57: Loss=1.9364, Accuracy=67.75%
+[ConvNeXtTiny] Epoch 58: Loss=1262.8122, Accuracy=99.89%
+[ConvNeXtTiny] Evaluation after Epoch 58: Loss=1.9384, Accuracy=67.63%
+[ConvNeXtTiny] Epoch 59: Loss=1259.4512, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 59: Loss=1.9403, Accuracy=67.52%
+[ConvNeXtTiny] Epoch 60: Loss=1256.5676, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 60: Loss=1.9550, Accuracy=67.18%
+[ConvNeXtTiny] Epoch 61: Loss=1255.8753, Accuracy=99.94%
+[ConvNeXtTiny] Evaluation after Epoch 61: Loss=1.9442, Accuracy=67.58%
+[ConvNeXtTiny] Epoch 62: Loss=1254.6709, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 62: Loss=1.9579, Accuracy=67.41%
+[ConvNeXtTiny] Epoch 63: Loss=1253.7300, Accuracy=99.92%
+[ConvNeXtTiny] Evaluation after Epoch 63: Loss=1.9645, Accuracy=66.99%
+[ConvNeXtTiny] Epoch 64: Loss=1252.4103, Accuracy=99.91%
+[ConvNeXtTiny] Evaluation after Epoch 64: Loss=1.9643, Accuracy=67.21%
+[ConvNeXtTiny] Epoch 65: Loss=1250.5679, Accuracy=99.91%
+[ConvNeXtTiny] Evaluation after Epoch 65: Loss=1.9835, Accuracy=66.28%
+[ConvNeXtTiny] Epoch 66: Loss=1248.2555, Accuracy=99.90%
+[ConvNeXtTiny] Evaluation after Epoch 66: Loss=1.9966, Accuracy=66.16%
+[ConvNeXtTiny] Epoch 67: Loss=1249.4196, Accuracy=99.88%
+[ConvNeXtTiny] Evaluation after Epoch 67: Loss=1.9708, Accuracy=66.95%
+[ConvNeXtTiny] Epoch 68: Loss=1248.3829, Accuracy=99.89%
+[ConvNeXtTiny] Evaluation after Epoch 68: Loss=1.9812, Accuracy=66.64%
+[ConvNeXtTiny] Epoch 69: Loss=1245.7865, Accuracy=99.89%
+[ConvNeXtTiny] Evaluation after Epoch 69: Loss=2.0234, Accuracy=66.06%
+[ConvNeXtTiny] Epoch 70: Loss=1244.4797, Accuracy=99.90%
+[ConvNeXtTiny] Evaluation after Epoch 70: Loss=2.0197, Accuracy=65.75%
+[ConvNeXtTiny] Epoch 71: Loss=1244.1826, Accuracy=99.88%
+[ConvNeXtTiny] Evaluation after Epoch 71: Loss=2.0646, Accuracy=65.07%
+[ConvNeXtTiny] Epoch 72: Loss=1243.0743, Accuracy=99.86%
+[ConvNeXtTiny] Evaluation after Epoch 72: Loss=2.0393, Accuracy=65.29%
+[ConvNeXtTiny] Epoch 73: Loss=1241.9842, Accuracy=99.85%
+[ConvNeXtTiny] Evaluation after Epoch 73: Loss=2.0608, Accuracy=65.06%
+[ConvNeXtTiny] Epoch 74: Loss=1243.4594, Accuracy=99.87%
+[ConvNeXtTiny] Evaluation after Epoch 74: Loss=2.0464, Accuracy=65.48%
+[ConvNeXtTiny] Epoch 75: Loss=1241.3691, Accuracy=99.87%
+[ConvNeXtTiny] Evaluation after Epoch 75: Loss=2.0790, Accuracy=65.07%
+[ConvNeXtTiny] Epoch 76: Loss=1241.7362, Accuracy=99.84%
+[ConvNeXtTiny] Evaluation after Epoch 76: Loss=2.0898, Accuracy=64.91%
+[ConvNeXtTiny] Epoch 77: Loss=1241.2041, Accuracy=99.83%
+[ConvNeXtTiny] Evaluation after Epoch 77: Loss=2.0902, Accuracy=65.19%
+[ConvNeXtTiny] Epoch 78: Loss=1239.4673, Accuracy=99.83%
+[ConvNeXtTiny] Evaluation after Epoch 78: Loss=2.1115, Accuracy=64.25%
+[ConvNeXtTiny] Epoch 79: Loss=1242.9331, Accuracy=99.74%
+[ConvNeXtTiny] Evaluation after Epoch 79: Loss=2.1177, Accuracy=64.40%
+[ConvNeXtTiny] Epoch 80: Loss=1242.1024, Accuracy=99.76%
+[ConvNeXtTiny] Evaluation after Epoch 80: Loss=2.1648, Accuracy=63.59%
+[ConvNeXtTiny] Epoch 81: Loss=1239.3792, Accuracy=99.78%
+[ConvNeXtTiny] Evaluation after Epoch 81: Loss=2.2178, Accuracy=62.44%
+[ConvNeXtTiny] Epoch 82: Loss=1239.8731, Accuracy=99.80%
+[ConvNeXtTiny] Evaluation after Epoch 82: Loss=2.1279, Accuracy=65.03%
+[ConvNeXtTiny] Epoch 83: Loss=1239.2312, Accuracy=99.77%
+[ConvNeXtTiny] Evaluation after Epoch 83: Loss=2.1602, Accuracy=64.12%
+[ConvNeXtTiny] Epoch 84: Loss=1242.7550, Accuracy=99.71%
+[ConvNeXtTiny] Evaluation after Epoch 84: Loss=2.2058, Accuracy=63.34%
+[ConvNeXtTiny] Epoch 85: Loss=1240.1389, Accuracy=99.75%
+[ConvNeXtTiny] Evaluation after Epoch 85: Loss=2.1935, Accuracy=64.02%
+[ConvNeXtTiny] Epoch 86: Loss=1242.2293, Accuracy=99.67%
+[ConvNeXtTiny] Evaluation after Epoch 86: Loss=2.1980, Accuracy=63.71%
+[ConvNeXtTiny] Epoch 87: Loss=1241.6262, Accuracy=99.68%
+[ConvNeXtTiny] Evaluation after Epoch 87: Loss=2.2149, Accuracy=63.74%
+[ConvNeXtTiny] Epoch 88: Loss=1238.3084, Accuracy=99.76%
+[ConvNeXtTiny] Evaluation after Epoch 88: Loss=2.2426, Accuracy=63.01%
+[ConvNeXtTiny] Epoch 89: Loss=1241.4580, Accuracy=99.69%
+[ConvNeXtTiny] Evaluation after Epoch 89: Loss=2.2143, Accuracy=63.82%
+[ConvNeXtTiny] Epoch 90: Loss=1243.7070, Accuracy=99.61%
+[ConvNeXtTiny] Evaluation after Epoch 90: Loss=2.2234, Accuracy=63.39%
+[ConvNeXtTiny] Epoch 91: Loss=1243.3628, Accuracy=99.63%
+[ConvNeXtTiny] Evaluation after Epoch 91: Loss=2.2556, Accuracy=63.67%
+[ConvNeXtTiny] Epoch 92: Loss=1237.8461, Accuracy=99.72%
+[ConvNeXtTiny] Evaluation after Epoch 92: Loss=2.2540, Accuracy=63.21%
+[ConvNeXtTiny] Epoch 93: Loss=1240.4029, Accuracy=99.68%
+[ConvNeXtTiny] Evaluation after Epoch 93: Loss=2.2360, Accuracy=63.96%
+[ConvNeXtTiny] Epoch 94: Loss=1239.4609, Accuracy=99.69%
+[ConvNeXtTiny] Evaluation after Epoch 94: Loss=2.2658, Accuracy=63.28%
+[ConvNeXtTiny] Epoch 95: Loss=1241.8282, Accuracy=99.61%
+[ConvNeXtTiny] Evaluation after Epoch 95: Loss=2.2818, Accuracy=63.00%
+[ConvNeXtTiny] Epoch 96: Loss=1239.2921, Accuracy=99.69%
+[ConvNeXtTiny] Evaluation after Epoch 96: Loss=2.2464, Accuracy=64.17%
+[ConvNeXtTiny] Epoch 97: Loss=1242.3254, Accuracy=99.62%
+[ConvNeXtTiny] Evaluation after Epoch 97: Loss=2.3059, Accuracy=63.42%
+[ConvNeXtTiny] Epoch 98: Loss=1239.5015, Accuracy=99.65%
+[ConvNeXtTiny] Evaluation after Epoch 98: Loss=2.2982, Accuracy=63.39%
+[ConvNeXtTiny] Epoch 99: Loss=1241.0051, Accuracy=99.64%
+[ConvNeXtTiny] Evaluation after Epoch 99: Loss=2.2995, Accuracy=63.35%
+[ConvNeXtTiny] Epoch 100: Loss=1239.4260, Accuracy=99.66%
+[ConvNeXtTiny] Evaluation after Epoch 100: Loss=2.2946, Accuracy=63.41%
